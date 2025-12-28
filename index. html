@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Student Opportunity Hub</title>
+</head>
+<body>
+
+  <h1>Student Opportunity Hub</h1>
+  <p>
+    Student Opportunity Hub is a simple platform designed to help students find
+    internships, scholarships, hackathons, and learning opportunities in one place.
+  </p>
+
+  <h2>Problem</h2>
+  <p>
+    Students often miss important opportunities because information is scattered
+    across multiple websites and social media platforms.
+  </p>
+
+  <h2>Our Solution</h2>
+  <p>
+    This platform collects important student opportunities and displays them
+    in a simple and easy-to-use format.
+  </p>
+
+  <h2>Features</h2>
+  <ul>
+    <li>Internships and scholarships listing</li>
+    <li>Hackathon and course information</li>
+    <li>Category-based browsing</li>
+    <li>Simple and clean interface</li>
+  </ul>
+
+  <h2>Future Scope</h2>
+  <p>
+    In future, we plan to add personalized recommendations and notifications
+    for upcoming deadlines.
+  </p>
+
+  <p><b>Prototype created for Hackathon Round 1</b></p>
+
+</body>
+</html>
