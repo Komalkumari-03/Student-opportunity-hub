@@ -1,0 +1,77 @@
+# Student Opportunity Hub
+
+## Problem
+As students, we often struggle to find internships, scholarships, hackathons, and learning opportunities because the information is spread across many different websites, WhatsApp groups, and social media pages.
+
+Because of this:
+- Many students miss deadlines  
+- Information becomes confusing  
+- Students from rural or non-metro areas do not get equal access to opportunities  
+
+---
+
+## Our Idea
+Student Opportunity Hub is a simple web platform created to help students find all important opportunities in one place.
+
+The main aim of this project is to:
+- Save students’ time  
+- Make opportunity discovery easier  
+- Provide equal access to opportunities for all students  
+
+---
+
+## Features (Round 1)
+- List of internships, scholarships, hackathons, and courses  
+- Category-wise browsing  
+- Basic search option  
+- Simple opportunity detail view  
+- Clean and student-friendly interface  
+
+---
+
+## How It Works (User Flow)
+Student opens the website
+Then the student views available opportunities
+After that, the student uses category or search options
+Next, the student checks opportunity details
+Finally, the student applies using the provided link
+
+
+---
+
+## Data Flow (Simple Explanation)
+- Student sends a request by browsing the website  
+- The system fetches opportunity data from a static data source  
+- Filtered results are displayed on the screen  
+- Student selects and applies for an opportunity  
+
+---
+
+## Technologies Used
+- HTML  
+- CSS  
+- Basic JavaScript  
+- GitHub Pages (for hosting the prototype)
+
+*This is a basic prototype developed for Round 1.*
+
+---
+
+## Why This Project Is Useful
+- Students do not need to visit multiple websites  
+- Chances of missing opportunities are reduced  
+- Especially helpful for students from tier-2 and tier-3 colleges  
+
+---
+
+## Planned Improvements for Round 2
+- Personalized opportunity suggestions based on student profile  
+- Deadline reminder system  
+- Section for government schemes and scholarships  
+- Resume upload and matching feature  
+- Mobile-friendly and scalable version  
+
+---
+
+## Conclusion
+Student Opportunity Hub is a student-focused project designed to simplify the process of finding opportunities and make them easily accessible to everyone.
