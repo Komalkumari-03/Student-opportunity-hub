@@ -1,1 +1,25 @@
+body {
+  font-family: Arial;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
 
+h2 {
+  color: #333;
+}
+
+.card {
+  background: white;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 6px #aaa;
+}
+
+button {
+  background-color: teal;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  cursor: pointer;
+}
