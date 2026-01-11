@@ -1,85 +1,114 @@
-# Student Opportunity Hub
 
-## Problem
-As students, we often struggle to find internships, scholarships, hackathons, and learning opportunities because the information is spread across many different websites, WhatsApp groups, and social media pages.
 
-Because of this:
-- Many students miss deadlines  
-- Information becomes confusing  
-- Students from rural or non-metro areas do not get equal access to opportunities  
+🎓 Student Opportunity Hub
 
----
 
-## Our Idea
-Student Opportunity Hub is a simple web platform created to help students find all important opportunities in one place.
+🧩 Problem Statement
+Students often struggle to find internships, scholarships, hackathons, and learning opportunities because information is scattered across multiple websites, WhatsApp groups, and social media platforms.
+As a result, many students miss deadlines and face confusion while searching for genuine opportunities.
 
-The main aim of this project is to:
-- Save students’ time  
-- Make opportunity discovery easier  
-- Provide equal access to opportunities for all students  
 
----
+💡 Our Solution
+Student Opportunity Hub is a centralized web platform designed to bring all important student opportunities into one simple and easy-to-use website.
+The goal is to help students discover opportunities quickly without confusion or information overload.
 
-## Features (Round 1)
-- List of internships, scholarships, hackathons, and courses  
-- Category-wise browsing  
-- Basic search option  
-- Simple opportunity detail view  
-- Clean and student-friendly interface  
 
----
+🚀 Features Implemented
 
-## How It Works (User Flow)
+🔹 Round 1
+Centralized listing of internships, scholarships, hackathons, and courses
+Category-based browsing
+Clean and student-friendly interface
+Basic project prototype
+
+🔹 Round 2 Enhancements
+Fully designed and responsive homepage
+Dedicated opportunities page
+Working apply buttons and navigation
+Improved UI/UX using CSS
+JavaScript-based frontend interactivity
+Proper system design documentation (DFD, DB Schema, SQL)
+
+
+🔄 How the Website Works (User Flow)
 Student opens the website
-Then the student views available opportunities
-After that, the student uses category or search options
-Next, the student checks opportunity details
-Finally, the student applies using the provided link
+Homepage introduces the platform
+Student navigates to the opportunities section
+Available opportunities are displayed clearly
+Student clicks on an opportunity
+Student applies using the provided apply button or link
 
 
----
+📊 Data Flow (Simple Explanation)
+Opportunity data is currently handled as static data
+User actions such as clicks and navigation are managed through JavaScript
+The frontend displays opportunities in a structured and readable format
 
-## Data Flow (Simple Explanation)
-- Student sends a request by browsing the website  
-- The system fetches opportunity data from a static data source  
-- Filtered results are displayed on the screen  
-- Student selects and applies for an opportunity  
 
----
+📁 Documentation (Docs Folder)
+The Docs folder contains all supporting documents related to the project, including:
+Data Flow Diagram (DFD)
+Database Schema Diagram
+SQL database design
+These documents explain the system flow, data structure, and backend planning of the project.
 
-## Technologies Used
-- HTML  
-- CSS  
-- Basic JavaScript  
-- GitHub Pages (for hosting the prototype)
 
-*This is a basic prototype developed for Round 1.*
+🧠 Backend Explanation (Planned Architecture)
+This project is currently implemented as a working frontend prototype. Backend development has been planned and designed, but not implemented in this round due to time constraints.
+Backend logic is defined using DFD and DB Schema
+SQL scripts describe database tables and relationships
+The system is backend-ready and scalable
+Backend technologies like Node.js, Express, and MySQL can be integrated in future phases
 
----
 
-## Why This Project Is Useful
-- Students do not need to visit multiple websites  
-- Chances of missing opportunities are reduced  
-- Especially helpful for students from tier-2 and tier-3 colleges  
+🛠️ Technologies Used
+HTML
+CSS
+JavaScript
+Git & GitHub
+GitHub Pages (Deployment)
 
----
 
-## Planned Improvements for Round 2
-- Personalized opportunity suggestions based on student profile  
-- Deadline reminder system  
-- Section for government schemes and scholarships  
-- Resume upload and matching feature  
-- Mobile-friendly and scalable version  
 
----
+👥 Team Contributions (Round 2)
 
-## Conclusion
-Student Opportunity Hub is a simple and practical solution to help students find internships, scholarships, hackathons, and learning opportunities in one place. This prototype focuses on solving the problem of scattered information by presenting opportunities in a clean and easy-to-understand format. The project demonstrates how a basic idea can be converted into a meaningful solution for students. This prototype was created as part of Hackathon Round 1.
+👩‍💻 Komal (Team Lead & Frontend Developer)
+Designed and developed the complete homepage
+Created overall UI structure and layout
+Managed repository, branches, pull requests, and final merges
+Coordinated team workflow and documentation
 
----
+👨‍💻 Rahul
+Created Data Flow Diagram (DFD)
+Designed Database Schema Diagram
+Added SQL database structure
+Organized all documentation inside the Docs folder
 
-## Team Members & Contribution
-- Komal Kumari (Team Lead): Idea creation, basic prototype, GitHub setup, and documentation.
-- Member 1: Research on student opportunities and feature discussion.
-- Member 2: Content planning and feedback.
-- Member 3: Review and suggestions.
+👩‍🎨 Mahak
+Improved UI layout and visual consistency
+Assisted in CSS styling and frontend structure
+Supported content organization
+
+👩‍💻 Simran
+Added JavaScript-based interactivity
+Implemented button click actions
+Improved user interaction on opportunities page
+
+
+🌟 Why This Project Is Useful
+Saves students time by centralizing opportunities
+Reduces confusion caused by scattered information
+Especially helpful for students from tier-2 and tier-3 colleges
+
+
+🔮 Future Scope
+Backend integration with real-time data
+User authentication and profiles
+Personalized opportunity recommendations
+Deadline reminders and notifications
+
+
+✅ Conclusion
+Student Opportunity Hub is a clean, functional, and well-documented prototype that addresses a real student problem.
+With a working frontend, strong documentation, and a clearly planned backend architecture, the project fully meets Round 2 requirements and is ready for further development.
+This project was developed collaboratively using proper version control practices with Git and GitHub.
